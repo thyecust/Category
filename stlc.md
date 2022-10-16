@@ -20,6 +20,10 @@ and satisfy
 3. associative: (x·y)·z = x·(y·z)
 4. left and right unit law: 1x·f = f = f·1x
 
-The *product* of of object A and object B can be expressed using diagram
+The *product* of object A and object B can be expressed using commuting diagram
 
 ![prod2](https://user-images.githubusercontent.com/49089605/196035001-16ab7bf6-92c9-471a-bb28-b6dc8c61a861.jpeg)
+
+The *coproduct* of object x and object y
+
+![](https://user-images.githubusercontent.com/49089605/196035319-d324e104-a69f-44d8-9571-1ed54bce44ef.png)
